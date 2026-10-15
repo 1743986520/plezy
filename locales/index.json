@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "code": "az",
+      "name": "Azərbaycan",
+      "file": "az.json",
+      "bytes": 114940,
+      "sha256": "235bfc2b4fca53231c01165f47161d30f259e207bba1a4299916cab23d2c3a5f"
+    },
+    {
+      "code": "bg",
+      "name": "Български",
+      "file": "bg.json",
+      "bytes": 156045,
+      "sha256": "a5d8537dc7f66ab3a0d3e5888603af2c3e885e2ff91dacfa8e7d1a386dad59d5"
+    },
+    {
+      "code": "da",
+      "name": "Dansk",
+      "file": "da.json",
+      "bytes": 107534,
+      "sha256": "d5c3c6e0666943dfbbccb290903f1e3ca63d88c07b1baa7059601d61ed1226d3"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "file": "de.json",
+      "bytes": 114019,
+      "sha256": "5cde4560d240101254ccbb683eb8c24d09cce8750e59401af682b49760bc7790"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "file": "es.json",
+      "bytes": 115733,
+      "sha256": "a480074b6d08ff74dc6243fd72b13e4177c0b7dbfdb5c4e4801c12872fda0e7c"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "file": "fr.json",
+      "bytes": 118329,
+      "sha256": "482ee77d8f9d051bced7804f98a130bf5b076efbe14a9f6b7c6855d49ec93052"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar",
+      "file": "hu.json",
+      "bytes": 119254,
+      "sha256": "d3cb576e38b9b33f8753becca8562e2449f0e664d86e84be7f4e6096d6544d91"
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "file": "it.json",
+      "bytes": 114400,
+      "sha256": "802c85ddafc79700bb0d26ba5c189cfe8cdc2897679fa7d7dbc88ecab4d9ba6d"
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "file": "ja.json",
+      "bytes": 127436,
+      "sha256": "62b95aa3feaea675cde6592b05984fd881576d48e0c1258e939d10b14df5051a"
+    },
+    {
+      "code": "kk",
+      "name": "Қазақша",
+      "file": "kk.json",
+      "bytes": 146915,
+      "sha256": "5927b89eeb7eff2d99f4f36164ffe3f0753869a2903fc117d2039592d7399f50"
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "file": "ko.json",
+      "bytes": 116907,
+      "sha256": "b8e1a7a85f15c75c2813bef641d6578fb26f14c97c558084c3aaffb9c420a05b"
+    },
+    {
+      "code": "nb",
+      "name": "Norsk Bokmål",
+      "file": "nb.json",
+      "bytes": 107318,
+      "sha256": "b1c277c4d04e4035bb420e1f2ef8fda8343b7bb194bd9ce3f73d2e131f2f09cd"
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands",
+      "file": "nl.json",
+      "bytes": 111579,
+      "sha256": "776770e05de68a4ec6adebcdda12bd6f0453fed665e7fa21df25cafad2ab3f70"
+    },
+    {
+      "code": "pl",
+      "name": "Polski",
+      "file": "pl.json",
+      "bytes": 115264,
+      "sha256": "0ff5fd4fe78b5dd19422f6a931bc2a6f94bbe2fde32db2d65ee494e0171f800b"
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "file": "pt.json",
+      "bytes": 113424,
+      "sha256": "cfca38cad7765b8e288fb8c9a25301621a10f9ac7227400e7beaf5ef5d84dd61"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "file": "ru.json",
+      "bytes": 155272,
+      "sha256": "5c84fa83a1ac6b00d3a48aa317f281d2253a3fb2f2154ae08ce34a625d70b9e1"
+    },
+    {
+      "code": "sv",
+      "name": "Svenska",
+      "file": "sv.json",
+      "bytes": 109386,
+      "sha256": "18c568a8ea3943c9e56fb3c9c207d3748d58c8e0367f6e8c5150e5235d9c6370"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "file": "tr.json",
+      "bytes": 112000,
+      "sha256": "da01310c88d123eb7e7a993fab92756dd6e5cfa3c274f1200e6ad4e28c9d6020"
+    },
+    {
+      "code": "uz",
+      "name": "Oʻzbekcha",
+      "file": "uz.json",
+      "bytes": 112269,
+      "sha256": "3846de6aa25b40e638f402795dee62d2ff3fd3453f0b3957bcfe2f3cc8666186"
+    }
+  ]
+}
